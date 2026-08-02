@@ -21,6 +21,14 @@ The app already includes:
 - a main dashboard structure with sections for chat, quizzes, community, library, and settings
 - a frontend built with React, TypeScript, Vite, Tailwind CSS, and shadcn/ui
 
+## Preview
+
+Here are a couple of early views of the product in its current form:
+
+![SuperNotebook landing view](public/placeholder.svg)
+
+![SuperNotebook login view](public/placeholder.svg)
+
 ## Tech stack
 
 - React + TypeScript
