@@ -25,7 +25,9 @@ The app already includes:
 
 Here are a couple of early views of the product in its current form:
 
+![SuperNotebook landing view](public/screenshots/home.png)
 
+![SuperNotebook login view](public/screenshots/login.png)
 
 ## Tech stack
 
