@@ -74,3 +74,4 @@ We are shaping this in layers:
 The goal is simple: make it easier to move from an idea to understanding without losing momentum. This is a practical product, built step by step, with real use in mind.
 
 - **[2026-09-07 22:14:06]** 📝 Added: Usage examples and code snippets
+- **[2026-09-08 19:14:37]** 📝 Added: Contributing guidelines and development setup
