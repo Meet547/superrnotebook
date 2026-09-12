@@ -78,3 +78,4 @@ The goal is simple: make it easier to move from an idea to understanding without
 - **[2026-09-09 10:00:02]** 📝 Added: Examples and use cases
 - **[2026-09-10 10:05:49]** 📝 Added: Usage examples and code snippets
 - **[2026-09-11 10:06:16]** 📝 Added: Contributing guidelines and development setup
+- **[2026-09-12 10:12:01]** 📝 Added: Usage examples and code snippets
