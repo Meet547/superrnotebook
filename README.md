@@ -80,3 +80,4 @@ The goal is simple: make it easier to move from an idea to understanding without
 - **[2026-09-11 10:06:16]** 📝 Added: Contributing guidelines and development setup
 - **[2026-09-12 10:12:01]** 📝 Added: Usage examples and code snippets
 - **[2026-09-13 10:03:03]** 📝 Added: FAQ section with common questions
+- **[2026-09-15 10:05:01]** 📝 Enhanced: Performance tips and best practices
