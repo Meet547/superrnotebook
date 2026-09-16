@@ -81,3 +81,4 @@ The goal is simple: make it easier to move from an idea to understanding without
 - **[2026-09-12 10:12:01]** 📝 Added: Usage examples and code snippets
 - **[2026-09-13 10:03:03]** 📝 Added: FAQ section with common questions
 - **[2026-09-15 10:05:01]** 📝 Enhanced: Performance tips and best practices
+- **[2026-09-16 10:06:03]** 📝 Improved: Project structure and directory explanation
