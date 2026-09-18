@@ -83,3 +83,4 @@ The goal is simple: make it easier to move from an idea to understanding without
 - **[2026-09-15 10:05:01]** 📝 Enhanced: Performance tips and best practices
 - **[2026-09-16 10:06:03]** 📝 Improved: Project structure and directory explanation
 - **[2026-09-17 10:00:02]** 📝 Added: Table of contents for better navigation
+- **[2026-09-18 10:01:51]** 📝 Enhanced: Installation instructions with detailed steps
