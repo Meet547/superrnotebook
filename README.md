@@ -85,3 +85,4 @@ The goal is simple: make it easier to move from an idea to understanding without
 - **[2026-09-17 10:00:02]** 📝 Added: Table of contents for better navigation
 - **[2026-09-18 10:01:51]** 📝 Enhanced: Installation instructions with detailed steps
 - **[2026-09-19 10:00:14]** 📝 Added: Table of contents for better navigation
+- **[2026-09-20 10:00:04]** 📝 Improved: Configuration options and setup guide
