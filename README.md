@@ -91,3 +91,4 @@ The goal is simple: make it easier to move from an idea to understanding without
 - **[2026-09-25 10:13:00]** 📝 Enhanced: Installation instructions with detailed steps
 - **[2026-09-26 10:00:07]** 📝 Enhanced: Features list with descriptions
 - **[2026-09-27 10:07:16]** 📝 Added: FAQ section with common questions
+- **[2026-09-29 10:15:28]** 📝 Improved: Configuration options and setup guide
