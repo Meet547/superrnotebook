@@ -94,3 +94,4 @@ The goal is simple: make it easier to move from an idea to understanding without
 - **[2026-09-29 10:15:28]** 📝 Improved: Configuration options and setup guide
 - **[2026-09-30 10:09:34]** 📝 Enhanced: Features list with descriptions
 - **[2026-10-02 10:00:04]** 📝 Added: FAQ section with common questions
+- **[2026-10-04 10:09:26]** 📝 Improved: Project structure and directory explanation
