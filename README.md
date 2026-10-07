@@ -96,3 +96,4 @@ The goal is simple: make it easier to move from an idea to understanding without
 - **[2026-10-02 10:00:04]** 📝 Added: FAQ section with common questions
 - **[2026-10-04 10:09:26]** 📝 Improved: Project structure and directory explanation
 - **[2026-10-05 10:12:09]** 📝 Added: API documentation and endpoints
+- **[2026-10-07 10:13:37]** 📝 Improved: Code examples formatting and clarity
