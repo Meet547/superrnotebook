@@ -100,3 +100,4 @@ The goal is simple: make it easier to move from an idea to understanding without
 - **[2026-10-09 10:01:35]** 📝 Enhanced: Installation instructions with detailed steps
 - **[2026-10-11 10:05:03]** 📝 Added: FAQ section with common questions
 - **[2026-10-12 10:14:12]** 📝 Added: Table of contents for better navigation
+- **[2026-10-13 10:00:06]** 📝 Improved: Project structure and directory explanation
